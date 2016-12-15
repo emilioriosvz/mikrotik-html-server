@@ -16,7 +16,7 @@ npm install
 ```
 
 ### Do you wan't to try this?
-The server write a file for every key in the `opts.static` and put in the `meta content` of this html files the `value`
+The server writes an html for every key in the `opts.static` and put in the `meta content` of these html files the `value`
 
 ```
 const opts = {
