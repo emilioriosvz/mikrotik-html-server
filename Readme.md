@@ -6,8 +6,7 @@ This is a really basic server that serves html files to customizing mikrotik hot
 ### Download project and install dependencies
 Clone the repo:
 ```sh
-git clone https://github.com/MOBDALA/passbook-server.git
-cd passbook-server
+git clone https://github.com/emilioriosvz/mikrotik-html-server
 ```
 
 Install dependencies:
