@@ -18,7 +18,7 @@ npm install
 ### Do you wan't to try this?
 The server writes an html for every key in the `opts.static` and put in the `meta content` of these html files the `value`
 
-```
+```js
 const opts = {
   statics: {
     alogin: '$(link-orig)',
@@ -34,6 +34,5 @@ const opts = {
 
 ## Start server
 ```sh
-# Start server
 npm start
 ```
