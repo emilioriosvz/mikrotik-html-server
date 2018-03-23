@@ -14,7 +14,7 @@ Install dependencies:
 npm install
 ```
 
-### Do you wan't to try this?
+### Do you want to try this?
 The server writes an html for every key in the `opts.static` and put in the `meta content` of these html files the `value`
 
 ```js
